@@ -1,7 +1,12 @@
 aid: darling-ingredients
-url: https://raw.githubusercontent.com/api-evangelist/darling-ingredients/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/darling-ingredients/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.darling-ingredients.com
+description: >-
+  Darling Ingredients is a global developer and producer of sustainable natural ingredients
+  from edible and inedible bio-nutrients, creating products for the food, pet food,
+  feed, fuel, bioenergy, and fertilizer industries.
