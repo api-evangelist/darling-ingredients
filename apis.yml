@@ -29,6 +29,8 @@ description: >-
   developer API.
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/darling-ingredients
   - type: Website
     url: https://www.darlingii.com
   - type: Investor Relations
