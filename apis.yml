@@ -30,6 +30,8 @@ description: >-
   developer API.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/darling-ingredients-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/darling-ingredients
   - type: Website
@@ -48,6 +50,8 @@ common:
     url: https://www.sonac.biz/
   - type: EnviroFlight
     url: https://www.enviroflight.net/
+  - url: https://www.darlingii.com/media/news
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
