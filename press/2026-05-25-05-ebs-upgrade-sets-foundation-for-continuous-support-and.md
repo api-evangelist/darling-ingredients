@@ -1,7 +1,9 @@
 ---
 title: EBS Upgrade Sets Foundation for Continuous Support and ...
 url: https://www.centroid.com/customer_stories/darling-ingredients-success-story/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Darling Ingredients" press release artificial intelligence'
 position: 5
 source: serpapi-google

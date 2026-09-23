@@ -1,7 +1,9 @@
 ---
 title: Sandra Dudley
 url: https://www.darlingii.com/about/management/sandra-dudley
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Darling Ingredients" press release artificial intelligence'
 position: 1
 source: serpapi-google

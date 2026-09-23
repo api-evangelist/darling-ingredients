@@ -1,7 +1,9 @@
 ---
 title: Darling Ingredients Inc. (DAR) Q1 2026 Earnings Call ...
 url: https://seekingalpha.com/article/4896954-darling-ingredients-inc-dar-q1-2026-earnings-call-transcript
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Darling Ingredients" press release artificial intelligence'
 position: 4
 source: serpapi-google

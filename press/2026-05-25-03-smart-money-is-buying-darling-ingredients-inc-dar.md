@@ -1,7 +1,9 @@
 ---
 title: Smart Money Is Buying Darling Ingredients Inc. (DAR)
 url: https://acquirersmultiple.com/2026/05/smart-money-is-buying-darling-ingredients-inc-dar/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Darling Ingredients" press release artificial intelligence'
 position: 3
 source: serpapi-google

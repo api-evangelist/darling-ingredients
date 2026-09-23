@@ -1,7 +1,9 @@
 ---
 title: DARLING INGREDIENTS INC. ANNOUNCES CHANGE TO ...
 url: https://www.prnewswire.com/news-releases/darling-ingredients-inc-announces-change-to-the-investor-relations-position-301445792.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Darling Ingredients" press release artificial intelligence'
 position: 2
 source: serpapi-google
